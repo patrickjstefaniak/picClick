@@ -1,0 +1,46 @@
+{
+	"decent-speed" : 60,
+	"background" : "background.jpg",
+	"cats" : [
+            {
+              "file" : "1.jpg",
+              "name" : "cat1"
+            },
+            {
+              "file" : "2.jpg",
+              "name" : "cat2"
+            },
+            {
+              "file" : "3.jpg",
+              "name" : "cat3"
+            },
+            {
+              "file" : "4.jpg",
+              "name" : "cat4"
+            },
+            {
+              "file" : "5.jpg",
+              "name" : "cat5"
+            },
+            {
+              "file" : "6.jpg",
+              "name" : "cat6"
+            },
+            {
+              "file" : "7.jpg",
+              "name" : "cat7"
+            },
+            {
+              "file" : "8.jpg",
+              "name" : "cat8"
+            },
+            {
+              "file" : "9.jpg",
+              "name" : "cat9"
+            },
+            {
+              "file" : "10.jpg",
+              "name" : "cat10"
+            }
+	]
+}
